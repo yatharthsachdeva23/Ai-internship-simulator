@@ -20,7 +20,7 @@ An AI-driven virtual internship platform that simulates real-world software engi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yatharthsachdeva23/Ai-internship-simulator.git
+   git clone "https://github.com/yatharthsachdeva23/Ai-internship-simulator.git"
    cd "AI Demo Internship"
    ```
 
